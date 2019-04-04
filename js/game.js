@@ -6,8 +6,8 @@ var game = {
     levels: {
 
         start: {
-            color: "#e699ff",
-            message: "Drake",
+            color: "#2392CA",
+            message: "Drake :)",
             choices: [
                 {
                     text: "Start here",
@@ -17,7 +17,7 @@ var game = {
         },
 
         second: {
-            color:"#aa7710",
+            color:"#2392CA",
             message: "As you planned to meet your friends, you see Drake in the train. What do you do?",
             choices: [
                 {
@@ -33,7 +33,7 @@ var game = {
         },
 
         open: {
-            color:"#aa7710",
+            color:"#2392CA",
             message: "Kudos for you being a good friend :)",
             choices: [
                 { 
@@ -44,7 +44,7 @@ var game = {
         },
         
         leave: {
-            color:"#585858",
+            color:"#2392CA",
             message: "You are such a fake friend that they left you. At least, you were with Drake",
             choices: [
                 {
@@ -55,7 +55,7 @@ var game = {
         },
         
         three: {
-            color:"#1a75ff",
+            color:"#2392CA",
             message: "You made plans with Drake for a date. Where do you want to go?",
             choices: [
                 {
@@ -73,7 +73,7 @@ var game = {
         },
         
         quick: {
-            color:"#4d94ff",
+            color:"#2392CA",
             message: "You had a great time and he won you a teddy bear. Cheers to having a good first date :)",
             choices: [
                 {
@@ -86,7 +86,7 @@ var game = {
         },
         
         long: {
-            color:"#505050",
+            color:"#2392CA",
             message: "Ya had a great time and he wants to see you again ;)",
             choices: [
                 {
@@ -98,7 +98,7 @@ var game = {
         },
         
         four: {
-            color:"#ff4d4d",
+            color:"#2392CA",
             message: "However, your ex wants to get back with you. What do you do?",
             choices: [
                 {
@@ -117,7 +117,7 @@ var game = {
         },
         
         take: {
-            color:"#484848",
+            color:"#2392CA",
             message: "Its all good, but you feel guilty leaving Drake. Your time with Drake is over",
             choices: [
                 {
@@ -129,8 +129,8 @@ var game = {
         },
         
         seeing: {
-            color:"#ff3333",
-            message: "You do you girl! At least you got Drake :)",
+            color:"#2392CA",
+            message: "You do you! At least you got Drake :)",
             choices: [
                 {
                     text: ";)",
